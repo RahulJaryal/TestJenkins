@@ -11,7 +11,7 @@ namespace JenkinsLearn
         static void Main(string[] args)
         {
 
-            Console.Write("checking this codeaaaaaa");
+            Console.Write("checking this code codeaaaaaa");
         }
     }
 }
